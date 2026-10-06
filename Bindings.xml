@@ -1,0 +1,6 @@
+<Bindings>
+	<!-- Tastenkürzel "KeyQueue öffnen/schließen" (Tastenbelegung -> AddOns, oder in KeyQueues Einstellungen) -->
+	<Binding name="KEYQUEUE_TOGGLE" category="ADDONS">
+		KeyQueue:ToggleMainWindow()
+	</Binding>
+</Bindings>

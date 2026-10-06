@@ -1,0 +1,41 @@
+## Interface: 120100
+## Title: |cff8fb0ffKey|rQueue
+## Notes: Mythic+ queue - solo or with up to 4 players. One click. Your key.
+## Notes-deDE: Mythic+-Queue - solo oder mit bis zu 4 Spielern. Ein Klick. Dein Key.
+## Author: Stefan
+## Version: 1.0.0
+## IconTexture: Interface\AddOns\KeyQueue\Media\Icon
+## SavedVariables: KeyQueueDB
+
+Libs\embeds.xml
+
+Locales\enUS.lua
+Locales\deDE.lua
+
+Core.lua
+Config.lua
+
+Modules\Buffs.lua
+Modules\Matcher.lua
+Modules\Matchmaker.lua
+Modules\Realms.lua
+Modules\Util.lua
+Modules\Comm.lua
+Modules\Listing.lua
+Modules\AutoInvite.lua
+Modules\Search.lua
+Modules\History.lua
+Modules\Endorsements.lua
+Modules\Queue.lua
+
+UI\Theme.lua
+UI\FoundPopup.lua
+UI\HistoryTab.lua
+UI\ProfileCard.lua
+UI\SettingsTab.lua
+UI\MainFrame.lua
+UI\Minimap.lua
+UI\StatusButton.lua
+UI\QueuePanel.lua
+UI\FeedbackPopup.lua
+

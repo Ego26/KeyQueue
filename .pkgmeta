@@ -1,0 +1,11 @@
+package-as: KeyQueue
+
+ignore:
+  - docs
+  - Branding
+  - tests
+  - CLAUDE.md
+  - .luarc.json
+  - node_modules
+  - scripts
+  - dist
